@@ -1,4 +1,4 @@
 interface:
   display_name: "Deep Interview"
-  short_description: "动态追问真实问题，生成可验证且可续接的个人认知地图"
-  default_prompt: "使用 $deep-interview 对我做一次一问一答的深度访谈，先帮我看清真正的问题。"
+  short_description: "一问一答澄清个人困扰或补齐任务需求，交付认知地图与需求卡"
+  default_prompt: "使用 $deep-interview，通过一问一答帮我澄清困扰或补齐任务需求，并整理成可继续使用的地图或需求卡。"
