@@ -1,5 +1,7 @@
 # 需求访谈模式
 
+> Requirements mode: coverage frame, active gap-filling, evidence states, and convergence rules. Written in Chinese; conduct the interview in the user's own language.
+
 把用户不完整的任务想法收敛成可审阅、可交接的 Task Requirement Card。此模式允许主动补充用户没想到的维度，补项应有理由并保留其确认状态。
 
 ## 进入模式

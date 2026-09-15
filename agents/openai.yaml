@@ -1,3 +1,5 @@
+# Codex 专用的可选界面元数据；其他 Agent 不读取本文件，删除不影响 Skill 使用。
+# Optional Codex-only interface metadata. Other agents ignore this file; removing it does not affect the skill.
 interface:
   display_name: "Deep Interview"
   short_description: "一问一答澄清个人困扰或补齐任务需求，交付认知地图与需求卡"

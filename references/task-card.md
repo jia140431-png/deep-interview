@@ -1,5 +1,7 @@
 # 任务需求卡与续访
 
+> Requirements mode: Task Requirement Card, handoff prompt, and resume card formats. Written in Chinese; deliver artifacts in the user's own language.
+
 用于需求访谈模式。需要自我认知地图时使用 [artifacts.md](artifacts.md)。
 
 ## Task Requirement Card

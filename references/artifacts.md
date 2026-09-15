@@ -1,5 +1,7 @@
 # Interview Artifacts
 
+> Self-clarification mode: understanding map, checkpoints, and resume card formats. Written in Chinese; deliver artifacts in the user's own language.
+
 本文件用于自我澄清模式的检查点、当前地图、结束总结或跨会话续接。需求访谈的成果见 [task-card.md](task-card.md)。格式服务于准确性，不必为了填满模板而补写用户没有提供的内容。
 
 ## 证据与状态语言

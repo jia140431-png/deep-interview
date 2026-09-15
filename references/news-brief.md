@@ -1,5 +1,7 @@
 # 每日新闻 / 早报的领域覆盖
 
+> Requirements mode, domain add-on: daily news / briefing coverage gaps. Written in Chinese; conduct the interview in the user's own language.
+
 仅在需求访谈的任务是新闻汇总或早报时加载。本文件提供寻找缺口的视角，不是预装订阅偏好，不要求每个人关心同样的类别。
 
 ## 从已有条件出发

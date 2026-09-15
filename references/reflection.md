@@ -1,5 +1,7 @@
 # 自我澄清模式
 
+> Self-clarification mode: interview strategy. Written in Chinese; conduct the interview in the user's own language.
+
 目标是提高用户对自己处境的分辨率，形成双方可以修正的认知地图。保留共用协议的一问一答、用户纠偏和假设状态。
 
 ## 专用工作地图
